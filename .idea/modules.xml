@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_HttpServletResponse介绍/04_HttpServletResponse介绍.iml" filepath="$PROJECT_DIR$/04_HttpServletResponse介绍/04_HttpServletResponse介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_HttpServletRequest介绍/05_HttpServletRequest介绍.iml" filepath="$PROJECT_DIR$/05_HttpServletRequest介绍/05_HttpServletRequest介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_在线考试管理系统/06_在线考试管理系统.iml" filepath="$PROJECT_DIR$/06_在线考试管理系统/06_在线考试管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_httpStatus_302/07_httpStatus_302.iml" filepath="$PROJECT_DIR$/07_httpStatus_302/07_httpStatus_302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet生命周期/Servlet生命周期.iml" filepath="$PROJECT_DIR$/Servlet生命周期/Servlet生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet_study/servlet_study.iml" filepath="$PROJECT_DIR$/servlet_study/servlet_study.iml" />
+    </modules>
+  </component>
+</project>
